@@ -43,4 +43,4 @@ encoded_value, intervals = arithmetic_coding(message)
 
 print("Symbol Intervals:")
 for symbol, interval in intervals.items():
-    print(f"
+    print(f"Encoded Image: {encoded_image}")
